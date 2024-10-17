@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn Sonar Cloud Integration
+          Learn React
         </a>
       </header>
     </div>
